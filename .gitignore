@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+*.local
+
+# 数据（本应用运行数据）
+data/
+screenshots/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 环境与日志
+.env
+*.log
